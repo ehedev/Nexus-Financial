@@ -1,0 +1,22 @@
+[
+    {
+        "id": "f1",
+        "name": "TechCorp",
+        "initials": "TC",
+        "color": "bg-primary"
+    },
+
+    {
+        "id": "f2",
+        "name": "Wayne Ent.",
+        "initials": "WE",
+        "color": "bg-dark"
+    },
+
+    {
+        "id": "f3",
+        "name": "AWS Cloud",
+        "initials": "AW",
+        "color": "bg-warning"
+    }
+]

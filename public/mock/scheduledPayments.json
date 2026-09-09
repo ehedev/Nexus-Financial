@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "payee": "Amazon Web Services",
+        "amount": 3450.00,
+        "daysLeft": 2,
+        "type": "Cloud Hosting"
+    },
+
+    {
+        "id": 2,
+        "payee": "Global Payroll",
+        "amount": 125000.00,
+        "daysLeft": 5,
+        "type": "Internal"
+    },
+
+    {
+        "id": 3,
+        "payee": "WeWork Office Rent",
+        "amount": 8500.00,
+        "daysLeft": 12,
+        "type": "Real Estate"
+    },
+
+    {
+        "id": 4,
+        "payee": "Corporate Taxes",
+        "amount": 45000.00,
+        "daysLeft": 18,
+        "type": "Government"
+    }
+]

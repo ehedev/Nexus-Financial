@@ -1,0 +1,81 @@
+[
+    {
+        "id": "TXN-10045",
+        "date": "2026-01-17T10:30:00Z",
+        "description": "Payroll Transfer - Aug",
+        "beneficiary": "Global Tech",
+        "type": "Debit",
+        "amount": 45000.00,
+        "status": "Completed"
+    },
+
+    {
+        "id": "TXN-10046",
+        "date": "2026-03-16T14:15:00Z",
+        "description": "Invoice Payment - TechCorp",
+        "beneficiary": "TechCorp",
+        "type": "Credit",
+        "amount": 12500.50,
+        "status": "Completed"
+    },
+
+    {
+        "id": "TXN-10047",
+        "date": "2026-04-15T09:00:00Z",
+        "description": "AWS Cloud Services",
+        "beneficiary": "Amazon",
+        "type": "Debit",
+        "amount": 3200.00,
+        "status": "Pending"
+    },
+
+    {
+        "id": "TXN-10048",
+        "date": "2026-05-14T16:45:00Z",
+        "description": "Client Retainer - Wayne Ent.",
+        "beneficiary": "Wayne Inc",
+        "type": "Credit",
+        "amount": 75000.00,
+        "status": "Completed"
+    },
+
+    {
+        "id": "TXN-10049",
+        "date": "2026-06-12T11:20:00Z",
+        "description": "Wire Transfer to Vendor",
+        "beneficiary": "Vendor",
+        "type": "Debit",
+        "amount": 15000.00,
+        "status": "Failed"
+    },
+
+    {
+        "id": "TXN-10053",
+        "date": "2026-07-14T08:00:00Z",
+        "description": "Quarterly Software Subscription",
+        "beneficiary": "CloudServices Inc",
+        "type": "Debit",
+        "amount": 1250.00,
+        "status": "Completed"
+    },
+
+    {
+        "id": "TXN-10054",
+        "date": "2026-07-20T08:00:00Z",
+        "description": "Quarterly Software Subscription",
+        "beneficiary": "CloudServices Inc",
+        "type": "Credit",
+        "amount": 142390.00,
+        "status": "Completed"
+    },
+
+    {
+        "id": "TXN-10055",
+        "date": "2026-08-15T13:22:00Z",
+        "description": "International Equipment Purchase",
+        "beneficiary": "Global Tech Logistics",
+        "type": "Debit",
+        "amount": 27500.00,
+        "status": "Failed"
+    }
+]

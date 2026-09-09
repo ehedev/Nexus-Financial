@@ -1,0 +1,69 @@
+[
+    {
+        "telecom": 
+        [
+            {
+                "id": "we", 
+                "name": "WE (Telecom Egypt)", 
+                "type": "Internet & Mobile" 
+            },
+            
+            {
+                "id": "vodafone", 
+                "name": "Vodafone", 
+                "type": "Corporate Mobile"
+            },
+
+            { 
+                "id": "orange", 
+                "name": "Orange", 
+                "type": "Corporate Mobile"
+            }
+        ],
+
+        "utilities": 
+        [
+            { 
+                "id": "elec_cairo", 
+                "name": "North Cairo Electricity", 
+                "type": "Electricity"
+            },
+
+            {
+                "id": "water_hcww", 
+                "name": "HCWW", 
+                "type": "Water"
+            }
+        ],
+
+        "gov": 
+        [
+            {
+                "id": "tax_auth", 
+                "name": "Egyptian Tax Authority", 
+                "type": "Corporate Tax"
+            },
+
+            {
+                "id": "social_ins", 
+                "name": "Social Insurance", 
+                "type": "Payroll"
+            }
+        ],
+
+        "b2b": 
+        [
+            {
+                "id": "aws", 
+                "name": "Amazon Web Services", 
+                "type": "Cloud Hosting"
+            },
+
+            {
+                "id": "microsoft", 
+                "name": "Microsoft Azure", 
+                "type": "Software"
+            }
+        ]
+    }
+]

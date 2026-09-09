@@ -1,0 +1,33 @@
+[
+    {
+        "id": "telecom", 
+        "title": "Telecom & Internet", 
+        "iconKey": "wifi", 
+        "desc": "Corporate mobile plans and broadband", 
+        "color": "text-primary"
+    },
+
+    {
+        "id": "utilities", 
+        "title": "Corporate Utilities", 
+        "iconKey": "zap", 
+        "desc": "Electricity, water, and gas payments", 
+        "color": "text-warning"
+    },
+
+    {
+        "id": "gov", 
+        "title": "Government & Taxes", 
+        "iconKey": "gov", 
+        "desc": "Social insurance and corporate taxes", 
+        "color": "text-success"
+    },
+
+    {
+        "id": "b2b", 
+        "title": "Vendor Invoices", 
+        "iconKey": "invoice", 
+        "desc": "Pay registered B2B suppliers", 
+        "color": "text-secondary"
+    }
+]

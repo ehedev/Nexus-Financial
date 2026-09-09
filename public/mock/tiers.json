@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Growth",
+        "monthlyPrice": 49,
+        "annualPrice": 490,
+        "description": "Perfect for startups and small teams establishing their financial operations.",
+        "features": ["Up to 50 transfers/month", "Basic Ledger Analytics", "Email Support", "1 Admin User"],
+        "isPopular": false
+    },
+
+    {
+        "name": "Corporate",
+        "monthlyPrice": 199,
+        "annualPrice": 1990,
+        "description": "The standard for scaling enterprises requiring advanced controls and APIs.",
+        "features": ["Unlimited transfers", "Full API Access", "Maker/Checker Approvals", "CSV Ledger Exports", "Priority 24/7 Support"],
+        "isPopular": true
+    },
+
+    {
+        "name": "Enterprise",
+        "monthlyPrice": "Custom",
+        "annualPrice": "Custom",
+        "description": "Dedicated infrastructure and white-glove onboarding for large institutions.",
+        "features": ["Dedicated Account Manager", "Custom Routing Rules", "White-label Options", "On-premise Deployment", "SLA Guarantee"],
+        "isPopular": false
+    }
+]
