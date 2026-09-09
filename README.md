@@ -1,4 +1,4 @@
-# Nexus | Corporate Financial Dashboard
+# <img src="./src/assets/images/logo.png" width="45" align="top" /> Nexus | Corporate Financial Dashboard
 
 > **Live Demo:** [https://nexus-financial.vercel.app]
 
