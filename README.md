@@ -2,6 +2,8 @@
 
 > **Live Demo:** [https://nexus-financial.vercel.app]
 
+![Nexus Dashboard Preview](./src/assets/images/Overview.png)
+
 Nexus is a high-performance, component-driven financial dashboard built to demonstrate modern frontend architecture. Designed with a focus on a premium user experience, this project showcases complex state management, responsive layouts, and dynamic data visualization.
 
 ## Design Philosophy & UI/UX
