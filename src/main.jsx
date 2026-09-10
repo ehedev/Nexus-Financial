@@ -2,6 +2,9 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 
+// Vercel Analytics Import
+import { Analytics } from '@vercel/analytics/react';
+
 // React Router Import
 import { BrowserRouter } from 'react-router-dom';
 
@@ -19,6 +22,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       <AuthProvider>
         <AccountProvider>
           <App />
+          <Analytics />
         </AccountProvider>
       </AuthProvider>
     </BrowserRouter>
