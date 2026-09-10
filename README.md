@@ -29,4 +29,4 @@ Nexus is divided into several purpose-built interfaces, each tackling a specific
 * **Data Handling:** Structured comprehensive mock data ecosystems to simulate a live, full-stack production environment strictly from the frontend.
 
 ---
-*Created by [Emad Wagih] — Frontend Web Developer*
+*Developed by [Emad Wagih] — Frontend Web Developer*
